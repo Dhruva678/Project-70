@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+iframe{
+    margin-top: 50px;
+}
+#myNavbar{
+    position: sticky;
+}
